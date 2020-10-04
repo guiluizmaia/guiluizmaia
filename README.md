@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1>💻 Olá sou o Guilherme, autor do blog programador universitário 💻</h1>
+<h1>💻 Olá sou o Guilherme, autor do blog programador universitário💻</h1>
 <h2>😄 Amo aprender, e estou progredindo na minha jornada como programador 😄</h2> 
 <h1>🤗 Um passo de cada vez 🤗</h2>
