@@ -8,3 +8,4 @@ I'm a 20 year old Fullstack developer.
 <br>
 My favorite technologies are:
 <br>
+<img width=40 src="https://cdn2.iconfinder.com/data/icons/designer-skills/128/react-256.png" />
