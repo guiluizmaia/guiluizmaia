@@ -1,8 +1,9 @@
 ## GUILHERME LUIZ
 
 ### Hey there 
-<br>
-[![Linkedin Badge](https://img.shields.io/badge/-ErickMalta-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/guilherme-luiz-maia-pinto-b032921b5/)]
+
+[![Linkedin Badge](https://img.shields.io/badge/-GuilhermeLuiz-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/guilherme-luiz-maia-pinto-b032921b5/)](https://www.linkedin.com/in/guilherme-luiz-maia-pinto-b032921b5/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:guilhermemaia201450@gmail.com)](mailto:guilhermemaia201450@gmail.com)
 
 <img width=400 src="https://media.giphy.com/media/3osxYvwUWBTIQaQ63K/giphy.gif" />
 
