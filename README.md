@@ -1,6 +1,8 @@
 ## GUILHERME LUIZ
 
 ### Hey there 
+<br>
+[![Linkedin Badge](https://img.shields.io/badge/-ErickMalta-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/guilherme-luiz-maia-pinto-b032921b5/)]
 
 <img width=400 src="https://media.giphy.com/media/3osxYvwUWBTIQaQ63K/giphy.gif" />
 
