@@ -9,3 +9,4 @@ I'm a 20 year old Fullstack developer.
 My favorite technologies are:
 <br>
 <img width=40 src="https://cdn2.iconfinder.com/data/icons/designer-skills/128/react-256.png" />
+<img width=40 src="https://cdn.iconscout.com/icon/free/png-256/node-js-1174925.png" />
