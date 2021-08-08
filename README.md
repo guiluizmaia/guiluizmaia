@@ -7,12 +7,16 @@
 Back-End developer❤️‍❤️‍🔥
 
 #### My techs 🤓
-- `TypeScript, JavaScript, NodeJs, ApsNet Core, PostgreSql`
+- `TypeScript`
+- `JavaScript`
+- `NodeJs`
+- `ApsNet Core`
+- `PostgreSql`
 
 
 #### Currently studying
-- Micro Services
-- Docker
+- `Micro Services`
+- `Docker`
 
 <br>
 
