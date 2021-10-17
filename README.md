@@ -12,11 +12,12 @@ Back-End developer❤️‍❤️‍🔥
 - `NodeJs`
 - `ApsNet Core`
 - `PostgreSql`
+- `Docker`
 
 
 #### Currently studying
 - `Micro Services`
-- `Docker`
+- `GoLang`
 
 <br>
 
