@@ -11,13 +11,13 @@ Back-End developer❤️‍❤️‍🔥
 - `JavaScript`
 - `NodeJs`
 - `ApsNet Core`
+- `Spring Boot`
 - `PostgreSql`
 - `Docker`
 
-
 #### Currently studying
-- `Micro Services`
 - `GoLang`
+- `Spring Boot`
 
 <br>
 
