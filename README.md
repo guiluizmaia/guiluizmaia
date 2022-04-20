@@ -8,13 +8,13 @@ Back-End developer❤️‍❤️‍🔥
 Full Cycle enthusiastic 🚀
 
 #### My techs 🤓
-- `TypeScript`
-- `JavaScript`
+- `JavaScript / TypeScript`
 - `NodeJs`
 - `Spring Boot`
 - `GoLang`
 - `PostgreSql`
-- `Docker`
+- `Docker / Docker-Compose`
+- `AWS`
 
 <br>
 
