@@ -5,19 +5,16 @@
 
 📚 SI student in UNIFAFIBE. <br>
 Back-End developer❤️‍❤️‍🔥
+Full Cycle enthusiastic 🚀
 
 #### My techs 🤓
 - `TypeScript`
 - `JavaScript`
 - `NodeJs`
-- `ApsNet Core`
 - `Spring Boot`
+- `GoLang`
 - `PostgreSql`
 - `Docker`
-
-#### Currently studying
-- `GoLang`
-- `Spring Boot`
 
 <br>
 
