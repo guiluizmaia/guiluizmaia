@@ -3,7 +3,8 @@
 [![Linkedin Badge](https://img.shields.io/badge/-GuilhermeLuiz-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/guilherme-luiz-maia-pinto-b032921b5/)](https://www.linkedin.com/in/guilherme-luiz-maia-pinto-b032921b5/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:guilhermemaia201450@gmail.com)](mailto:guilhermemaia201450@gmail.com)
 
-📚 SI student in UNIFAFIBE. <br>
+📚 SI in UNIFAFIBE. <br>
+📚 Pós Distributed Software Architecture in PUC Minas. <br>
 Back-End developer❤️‍❤️‍🔥
 Full Cycle enthusiastic 🚀
 
